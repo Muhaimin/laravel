@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>LARAVEL 10.X NEW UPDATE HERE</title>
+        <title>LARAVEL 10.X</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
